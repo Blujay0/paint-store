@@ -1,5 +1,5 @@
 # Paint Shop
-Online storefront for a home improvement store. </br>
+Online storefront for a home improvement store. <br />
 Playground for experimenting with styling + page layout.
 
 ## Features
