@@ -53,6 +53,7 @@ header .logo-big {
 nav li {
   display: inline;
   padding-right: 2rem;
+  font-weight: bold;
 }
 
 nav li:last-child {
