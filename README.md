@@ -7,6 +7,8 @@ Playground for experimenting with styling + page layout.
 * Semantic HTML
 * CSS
 * CSS specificity
+* CSS Reset
+  * compressed set of CSS rules that *resets* the styling of all HTML elements to a consistent baseline.
 * rgba()
 * hsla()
 * @media queries
@@ -19,6 +21,7 @@ Playground for experimenting with styling + page layout.
 
 ## Resources & Acknowledgements
 * [Google Fonts API](https://fonts.google.com/)
+* [CSS Reset](https://cssdeck.com/blog/what-is-a-css-reset/)
 * [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.php)
 
 Unsplash Images:
