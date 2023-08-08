@@ -12,7 +12,7 @@ Playground for experimenting with styling + page layout.
 * @media queries
 * Google Fonts API
 
-## Resources + Acknowledgements
+## Resources & Acknowledgements
 [Google Fonts API](https://fonts.google.com/)
 
 Unsplash Images:
