@@ -1,5 +1,6 @@
 # Paint Shop
-Playground for experimenting with styling + page layout
+Online storefront for a home improvement store.
+Playground for experimenting with styling + page layout.
 
 ## Features
 * HTML
